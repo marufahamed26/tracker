@@ -1,5 +1,5 @@
 {
-  "name": "marufahamed26/tracker",
+  "name": "pragmarx/tracker",
   "description": "A Laravel Visitor Tracker",
   "keywords": [
     "tracker",
@@ -9,7 +9,7 @@
     "user agent",
     "mobile detection",
     "laravel",
-    "marufahamed26"
+    "pragmarx"
   ],
   "license": "MIT",
   "authors": [
